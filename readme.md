@@ -7,3 +7,5 @@ With this script you can:
 - find opportunities for topics others are not covering yet
 
 Read the blog post: [Tool to analyze topical relevance for On-Page SEO](https://bluerivermountains.com/en/head-ripper-method)
+
+[![Intro video for head ripper tool](https://img.youtube.com/vi/6VVRkXDg2Xc/0.jpg)](https://www.youtube.com/watch?v=6VVRkXDg2Xc)
